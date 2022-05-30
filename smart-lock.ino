@@ -2,7 +2,7 @@
  
 const char* ssid = "ssid";
 const char* password = "password";
-int LED = 13;
+int LED = 2;
 WiFiServer server(80);
  
 void setup() {
